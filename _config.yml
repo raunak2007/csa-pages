@@ -3,7 +3,7 @@ description: "Raunak's CSA Blog"
 owner_name: Raunak Mondal
 github_username: raunak2007
 baseurl: "/csa-pages"
-remote_theme: pages-themes/midnight@v0.2.0
+# remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/hacker@v0.2.0
