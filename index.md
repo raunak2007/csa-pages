@@ -3,13 +3,11 @@ layout: default
 title: Student Blog
 ---
 
-## Luna's Page
+## Raunak's Page
 
-Go to my [Github account](https://github.com/lunaiwa) !!
+Go to my [Github account](https://github.com/raunak2007) !!
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
+I currently live in San Diego and was born in Bangalore, India. I started coding since the age of 6 and my first experience with code was the [code.org](code.org) Hour of Code
 
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+Picture of Me:
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/65d35b24-2dd7-42e1-808d-9a342e7c6613)
