@@ -1,3 +1,9 @@
+---
+title: First Calculator
+layout: default
+description: This is my first HTML/CSS/JSS project.
+---
+# This is my advanced calculator program
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
