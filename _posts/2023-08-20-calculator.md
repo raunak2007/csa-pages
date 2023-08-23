@@ -52,6 +52,9 @@
   <button onclick="appendToResult('/')">/</button>
   <button onclick="calculateSqrt()">√</button>
   <button onclick="calculatePower()">^</button>
+  <button onclick="calculateSin()">sin</button>
+  <button onclick="calculateCos()">cos</button>
+  <button onclick="calculateTan()">tan</button>
 </div>
 <script>
   function clearResult() {
@@ -86,6 +89,24 @@
     } else {
       document.getElementById("result").value = "Error";
     }
+  }
+
+  function calculateSin() {
+    let currentValue = parseFloat(document.getElementById("result").value);
+    let result = Math.sin(currentValue);
+    document.getElementById("result").value = result;
+  }
+
+  function calculateCos() {
+    let currentValue = parseFloat(document.getElementById("result").value);
+    let result = Math.cos(currentValue);
+    document.getElementById("result").value = result;
+  }
+
+  function calculateTan() {
+    let currentValue = parseFloat(document.getElementById("result").value);
+    let result = Math.tan(currentValue);
+    document.getElementById("result").value = result;
   }
 </script>
 </body>
