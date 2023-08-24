@@ -11,3 +11,7 @@ I currently live in San Diego and was born in Bangalore, India. I started coding
 
 Picture of Me:
 ![image](https://github.com/raunak2007/csa-pages/assets/41299387/65d35b24-2dd7-42e1-808d-9a342e7c6613)
+
+Pair Picture:
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/ddc84408-6a1c-4840-a9f3-d78cdad01565)
+
