@@ -6,7 +6,7 @@ toc: true
 comments: true
 categories: [5.A, C4.1]
 courses: { csse: {week: 1}, csp: {week: 1, categories: [6.B]}, csa: {week: 1} }
-type: devops
+type: hacks
 ---
 
 ::: {.cell .markdown}
