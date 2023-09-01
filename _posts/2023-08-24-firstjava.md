@@ -1,20 +1,11 @@
 ---
-jupyter:
-  colab:
-  kernelspec:
-    display_name: Java
-    language: java
-    name: java
-  language_info:
-    codemirror_mode: java
-    file_extension: .jshell
-    mimetype: text/x-java-source
-    name: java
-    pygments_lexer: java
-    version: 11.0.20+8-post-Ubuntu-1ubuntu120.04
-  nbformat: 4
-  nbformat_minor: 0
-  orig_nbformat: 4
+toc: true
+comments: true
+layout: post
+title: First Java Notebook
+description: My first java notebook. Hello World!
+courses: { csa: {week: 1} }
+type: hacks
 ---
 
 ::: {.cell .markdown id="d7AeW_5yaf9l"}
