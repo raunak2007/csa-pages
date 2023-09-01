@@ -1,24 +1,12 @@
 ---
-jupyter:
-  kernelspec:
-    display_name: Python 3.10.6 64-bit
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.9.12
-  nbformat: 4
-  nbformat_minor: 2
-  vscode:
-    interpreter:
-      hash: aee8b7b246df8f9039afb4144a1f6fd8d2ca17a180786b69acc140d282b71a49
+layout: post
+title: Linux Shell and Bash (Student View)
+description: A Tech Talk on Linux and the Bash shell.
+toc: true
+comments: true
+categories: [5.A, C4.1]
+courses: { csse: {week: 1}, csp: {week: 1, categories: [6.B]}, csa: {week: 1} }
+type: devops
 ---
 
 ::: {.cell .markdown}
