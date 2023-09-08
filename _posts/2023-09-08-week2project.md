@@ -5,7 +5,7 @@ layout: post
 title: Week 2 Project Overview
 description: Overview of my week 2 sports tradings card project
 courses: { csa: {week: 2} }
-type: tangibles
+type: hacks
 ---
 # Initial Plan
 ## Frontend Goals:
