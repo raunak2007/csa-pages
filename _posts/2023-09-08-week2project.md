@@ -31,7 +31,7 @@ type: hacks
 4. Mobile App: Consider developing a mobile app version for a more seamless user experience on smartphones and tablets.
 
 # [Link To Our Project](https://rssports.github.io/) 
-# [Link To Our Table](https://rssports.github.io/)
+# [Link To Our API Table](https://rssports.github.io/)
 
 # Using ChatGPT To Debug Errors:
 ![image](https://github.com/raunak2007/csa-pages/assets/41299387/ba041fba-d9b1-4536-adeb-9d8273a1fbbd)
