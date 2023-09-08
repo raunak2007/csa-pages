@@ -30,6 +30,7 @@ type: hacks
 3. Notifications: Implement real-time notifications for trade requests, new messages, and card auctions.
 4. Mobile App: Consider developing a mobile app version for a more seamless user experience on smartphones and tablets.
 
+# [Link To Our Project](https://rssports.github.io/) 
 # [Link To Our Project](https://rssports.github.io/)
 
 # Using ChatGPT To Debug Errors:
