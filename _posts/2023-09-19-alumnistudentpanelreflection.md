@@ -5,7 +5,7 @@ layout: post
 title: Alumni Student Panel Takeaways and Reflection
 description: Alumni Student Panel Takeaways and Reflection
 courses: { csa: {week: 5} }
-type: hacks
+type: plans
 ---
 # Takeaways and Reflection from the Student Panel
 
