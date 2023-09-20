@@ -4,8 +4,9 @@ comments: true
 layout: post
 title: Alumni Student Panel Takeaways and Reflection
 description: Alumni Student Panel Takeaways and Reflection
-courses: { csa: {week: 3} }
 type: plans
+courses: { csse: {week: 1}, csp: {week: 1, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
 # Takeaways and Reflection from the Student Panel
 
