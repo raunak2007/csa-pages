@@ -12,6 +12,7 @@ authors: David, Alex, Drew, Derrick, Jishnu
 ## 9.1 Superclasses and Subclasses
 > A hierarchy of classes is created, extending attributes into subclasses of information (ie. Automobile --> Trucks and Sedans --> Ford, BMW, Nissan, Toyota). 
 
+
 ### Pre-Requisites
 
 Before we start you need to remember what classes and methods are. Scopes of variables are also important to this section because you need to know which classes can access which variables before extending a variable across classes.
