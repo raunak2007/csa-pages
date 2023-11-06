@@ -44,7 +44,7 @@ My main contribution to the team project was the login feature, which can be fou
 
 # Reflection
 
-In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester.
+In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester. From learning about JWT verification to having a breakfast with my team, I have had a variety of fun experiences this trimester. I'll look forward to using my experience this trimester in my CS internships and and even later on in college.
 
 
 
