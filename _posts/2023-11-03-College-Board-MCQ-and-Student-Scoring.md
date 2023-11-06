@@ -45,6 +45,11 @@ Commit History for this trimester:
 Code Review:
 My main contribution to the team project was the login feature, which can be found [here](https://github.com/A-REEL/a-reelB/blob/gh-pages/login.js)
 
+Time Box:
+
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/1f515fcd-123e-4e97-8017-9ac44fc04347)
+
+
 # Reflection
 
 In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester. From learning about JWT verification to having a breakfast with my team, I have had a variety of fun experiences this trimester. I'll look forward to using my experience this trimester in my CS internships and and even later on in college.
