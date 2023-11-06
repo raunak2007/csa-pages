@@ -53,5 +53,11 @@ Time Box:
 
 In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester. From learning about JWT verification to having a breakfast with my team, I have had a variety of fun experiences this trimester. I've also learned a lot from my other classmates and have built upon their experiences in Computer Science A. I'll look forward to using my experience this trimester in my CS internships and and even later on in college.
 
+# Extra Credit Reviews
+
+[Review 1](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
+[Review 2](https://github.com/PaarasPurohit/team-premium-frontend/issues/2#issuecomment-1792692070)
+[Review 3](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
+
 
 
