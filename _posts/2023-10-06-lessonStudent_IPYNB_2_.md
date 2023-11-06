@@ -5,7 +5,7 @@ layout: post
 title: U5 Inheritance P1 Student
 description: Lesson on Java class hierarchy.
 type: hacks
-courses: {'csa': {'week': 11}}
+courses: {'csa': {'week': 10}}
 authors: David, Alex, Drew, Derrick, Jishnu
 ---
 
