@@ -55,9 +55,9 @@ In summary, I am grateful to have the experience of taking AP Computer Science A
 
 # Extra Credit Reviews
 
-[Review 1](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
-[Review 2](https://github.com/PaarasPurohit/team-premium-frontend/issues/2#issuecomment-1792692070)
-[Review 3](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
+- [Review 1](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
+- [Review 2](https://github.com/PaarasPurohit/team-premium-frontend/issues/2#issuecomment-1792692070)
+- [Review 3](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
 
 
 
