@@ -6,7 +6,7 @@ courses: { csa: { week: 11 } }
 type: hacks
 ---
 # Scores from Student Scoring:
-,
+
 |Unit|Score|
 |--|--|
 |1|0.81|
