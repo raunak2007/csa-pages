@@ -41,6 +41,7 @@ I had the most commits out of all of my group members by far, and my commits wer
 
 Commit History for this trimester:
 ![image](https://github.com/raunak2007/csa-pages/assets/41299387/6fe0b7d5-0d1c-427b-8903-193fbb65996b)
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/7199a729-0ec8-449c-93db-d255e042bcfb)
 
 Code Review:
 My main contribution to the team project was the login feature, which can be found [here](https://github.com/A-REEL/a-reelB/blob/gh-pages/login.js)
