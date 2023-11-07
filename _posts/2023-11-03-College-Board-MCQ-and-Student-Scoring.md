@@ -6,7 +6,7 @@ courses: { csa: { week: 11 } }
 type: hacks
 ---
 # Scores from Student Scoring:
-
+,
 |Unit|Score|
 |--|--|
 |1|0.81|
@@ -16,7 +16,7 @@ type: hacks
 |5|N/A|
 |6|1.00|
 |7|1.00|
-|8|TBA|
+|8|1.00|
 |9|TBA|
 |10|TBA|
 
@@ -50,7 +50,7 @@ Time Box:
 ![image](https://github.com/raunak2007/csa-pages/assets/41299387/ec4eda11-63a3-4282-9702-91cd2d065ee9)
 # Reflection
 
-In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester. From learning about JWT verification to having a breakfast with my team, I have had a variety of fun experiences this trimester. I really enjoyed my computer science course this trimester, even though it was challenging at times. Learning new things and overcoming difficulties made me happy, and it got me interested in artificial intelligence. I want to study AI more in the coming trimesters because I find the idea of creating smart systems that can solve complex problems fascinating. I think it can change the future of technology and have a positive impact on many industries. In summary, my experience in AP Computer Science Advanced has been transformative. I've gained technical skills and important life skills like time management and teamwork. Building a website with my team in a short time was a big accomplishment, and I'm excited to keep learning about computer science, especially AI. I've also learned from my classmates and their experiences in Computer Science A. I'll look forward to using my experiences this trimester in my CS/AI-related internships and and even later on in college. My plans for next trimester include potentially developing a chatbot that can replicate any user's style of talking using 10 sentences/phrases that the user most commonly uses.
+In summary, I am grateful to have the experience of taking AP Computer Science A at Del Norte High School, and I'm especially grateful for all the learning opportunities I've had this trimester. From learning about JWT verification to having a breakfast with my team, I have had a variety of fun experiences this trimester. I really enjoyed my computer science course this trimester, even though it was challenging at times. Learning new things and overcoming difficulties made me happy, and it got me interested in artificial intelligence. I want to study AI more in the coming trimesters because I find the idea of creating smart systems that can solve complex problems fascinating. In addition, I am really interested in developing chatbots that users can log into that can detect ableist language and replace it with less ableist language, as that aligns with the goals of my  I think it can change the future of technology and have a positive impact on many industries. In summary, my experience in AP Computer Science Advanced has been transformative. I've gained technical skills and important life skills like time management and teamwork. Building a website with my team in a short time was a big accomplishment, and I'm excited to keep learning about computer science, especially AI. I've also learned from my classmates and their experiences in Computer Science A. I'll look forward to using my experiences this trimester in my CS/AI-related internships and and even later on in college. My plans for next trimester include potentially developing a chatbot that can replicate any user's style of talking using 10 sentences/phrases that the user most commonly uses. Another idea that I've brainstormed is creating an AI chatbot that gives quizbowl questions to users and helps users get better at quizbowl, which relates to a hobby/club of mine.
 
 
 
@@ -58,7 +58,7 @@ In summary, I am grateful to have the experience of taking AP Computer Science A
 
 - [Review 1](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
 - [Review 2](https://github.com/PaarasPurohit/team-premium-frontend/issues/2#issuecomment-1792692070)
-- [Review 3](https://github.com/vardaansinha/cscanvasfrontend/issues/5#issuecomment-1795529363)
+- [Review 3](https://github.com/TheoH32/Stocktify/issues/2#issuecomment-1795577460)
 
 
 
