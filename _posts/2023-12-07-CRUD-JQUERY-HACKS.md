@@ -8,8 +8,6 @@ categories: ['Javascript', 'Lesson', 'Tri 2']
 tags: ['Notebook', 'Lesson', 'Javascript', 'jQuery']
 ---
 
-Certainly! Let's break down the information provided:
-
 ### Real-Life Applications of jQuery:
 1. **Dropdown Menus Animation:**
    - jQuery is used to make dropdown menus appear smoothly on web pages. This is a common user interface enhancement where, instead of a sudden appearance, dropdown menus can have a more visually appealing and smooth transition.
