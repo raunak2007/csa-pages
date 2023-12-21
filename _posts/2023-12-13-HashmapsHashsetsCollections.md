@@ -95,7 +95,6 @@ I can see the tutorial_id in a column of the note table when I look inside the s
 
 ![](emaad-mir.github.io/emaad-github-pages1/images/tutorial.png)
 
-
 # Homework Hacks Complete
 
 ## Overview
