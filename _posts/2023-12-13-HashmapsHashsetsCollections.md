@@ -93,7 +93,8 @@ The relationship between Person objects and PersonRole objects is a many-to-many
 
 I can see the tutorial_id in a column of the note table when I look inside the sqlite.db file. The leftmost "id" column in the note table is typically the primary key of the Note entity. Each note has its unique ID (id) and is associated with a Person (i.e. tutorial_id). The id column identifies each Note, while tutorial_id links it to its corresponding Person (hence why we only see numbers in the tutorial_id column).
 
-![](emaad-mir.github.io/emaad-github-pages1/images/tutorial.png)
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/a96042df-3d65-4990-9da8-5a847024dab7)
+
 
 # Homework Hacks Complete
 
@@ -105,7 +106,8 @@ For my hacks, I decided to create a data base that was all about TV shows. Speci
 
 The first screenshot is a many to many relationship between the TV show and the genre of the TV show, as shown below:
 
-![](emaad-mir.github.io/emaad-github-pages1/images/manytomany.png)
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/ad6a5ebd-2b3a-407b-8cfb-7091b9ebf5e1)
+
 
 Here is the code segment that I used to create this relationship (mainly with the @ManyToMany):
 
@@ -120,7 +122,8 @@ Here is the code segment that I used to create this relationship (mainly with th
 
 The next screenshot below shows the use of a JSONB column for episodes of a show, which is the column that has the curly brackets and colons:
 
-![](emaad-mir.github.io/emaad-github-pages1/images/json.png)
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/f4bd49d4-50a5-40b6-84fb-c86eb08b8c2a)
+
 
 Here is the code segment that I used to include the episodes JSONB column:
 
@@ -134,9 +137,11 @@ Here is the code segment that I used to include the episodes JSONB column:
 
 The rest of the screenshots below are of some of my other sqlite data tables that I made:
 
-![](emaad-mir.github.io/emaad-github-pages1/images/dob.png)
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/6e70d9cb-8d3f-43ab-88f8-ade622c828d2)
 
-![](emaad-mir.github.io/emaad-github-pages1/images/title.png)
+
+![image](https://github.com/raunak2007/csa-pages/assets/41299387/795c08a0-fb83-4095-a6e5-b502e14cbd47)
+
 
 
 ## Extra Notes Beyond the Lesson
