@@ -3,7 +3,7 @@ title: "JWT - Java, Security Lesson"
 description: "Lesson on Java exploits and cybersecurity."
 toc: true
 layout: post
-type: code
+type: hacks
 courses:
   csa:
     week: 17
