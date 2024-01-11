@@ -3,11 +3,12 @@ layout: default
 title: Student Blog
 ---
 
-# Hacks Table
 Commits:
 ![image](https://github.com/raunak2007/csa-pages/assets/41299387/de857887-13aa-4844-b6f7-0db1c3bece1c)
 
+[Key Issues](https://github.com/raunak2007/csa-pages/issues)
 
+# Hacks Table
 || Score, Grader Verification | Runtime|        Extras       | Key Indicators: Blog, GitHub File(s) and Key Commits |
 |-----------------|:--------------------------:|:----------------:|:-------------------:|:--------------------------------------------:|
 |SASS hacks|1/1|[Hacks](https://nighthawkcoders.github.io/teacher_portfolio//2023/12/05/P1_student_SASS_IPYNB_2_.html)|Was able to expand on key advanced aspects of SASS|[Commit](https://github.com/SASSLessons/lesson/commit/3c5a697b08da5dd8fb2c24e3463962fbd6b33f74)|
@@ -20,4 +21,4 @@ Commits:
 |                           |                            |                  |                     |                               |
 | Totals                    | Median Score:    **0.98/1**| Number complete: **6** | Extra effort count: **6** | Key commit count: **6** |
 
-Got a **36/39*** on the College Board Quiz
+Got a **36/39** on the College Board Quiz
