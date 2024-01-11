@@ -3,7 +3,7 @@ title: Hashmaps Finished Lesson Hacks
 comments: true
 layout: post
 description: My finished hacks for the hashmaps lesson on 12/13
-type: plans
+type: hacks
 courses: { csa: {week: 16} }
 categories: [C1.4]
 ---
