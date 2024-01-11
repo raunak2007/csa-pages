@@ -2,7 +2,7 @@
 layout: post
 title: JQUERY & CRUD HACKS
 description: hacks for CRUD with JQUERY
-type: ccc
+type: hacks
 week: 15
 categories: ['Javascript', 'Lesson', 'Tri 2']
 tags: ['Notebook', 'Lesson', 'Javascript', 'jQuery']
