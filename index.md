@@ -9,6 +9,7 @@ Commits:
 [Key Issues](https://github.com/raunak2007/csa-pages/issues)
 
 # Hacks Table
+
 || Score, Grader Verification | Runtime|        Extras       | Key Indicators: Blog, GitHub File(s) and Key Commits |
 |-----------------|:--------------------------:|:----------------:|:-------------------:|:--------------------------------------------:|
 |SASS hacks|1/1|[Hacks](https://nighthawkcoders.github.io/teacher_portfolio//2023/12/05/P1_student_SASS_IPYNB_2_.html)|Was able to expand on key advanced aspects of SASS|[Commit](https://github.com/SASSLessons/lesson/commit/3c5a697b08da5dd8fb2c24e3463962fbd6b33f74)|
@@ -20,5 +21,6 @@ Commits:
 |CB Quiz|2/2|[Hacks](https://raunak2007.github.io/csa-pages/2023/12/21/MC-2015-Blog.html)|I added key strategies that I used on the test, explained every problem that I got wrong in detail, and added a reflection at the end to show my comprehension|[Commit](https://github.com/raunak2007/csa-pages/commit/8cab3e3220237c71d2825787686c4408802b2662)|
 |                           |                            |                  |                     |                               |
 | Totals                    | Median Score:    **0.98/1**| Number complete: **6** | Extra effort count: **6** | Key commit count: **6** |
+
 
 Got a **36/39** on the College Board Quiz
