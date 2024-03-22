@@ -8,7 +8,7 @@ courses: {'compsci': {'week': 28}}
 ---
 ## Question 1: Primitive Types vs Reference Types (Unit 1)
 a. What kind of types are person1 and person2?
-   - Referance types
+   - Reference types
 b. Do person1 and person3 point to the same value in memory?
    - Yes; person3 = person1
 c. Is the integer “number” stored in the heap or in the stack?
